@@ -27,3 +27,4 @@ rustc file_name.rs
 * chapter 9 : Project Organization and Structure
 
 #### [rust source book]("https://doc.rust-lang.org/stable/book/") 
+### [cheat sheet]("https://cheats.rs/#basic-types")
